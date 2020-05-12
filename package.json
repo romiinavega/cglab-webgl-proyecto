@@ -1,0 +1,26 @@
+{
+  "name": "cglab-webgl-proyecto",
+  "version": "1.0.0",
+  "description": "Aprender a usae WebGL",
+  "main": "server.js",
+  "scripts": {
+    "test": " ",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romiinavega/cglab-webgl-proyecto.git"
+  },
+  "keywords": [
+    "SHADERS"
+  ],
+  "author": "ROMINAVEGA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romiinavega/cglab-webgl-proyecto/issues"
+  },
+  "homepage": "https://github.com/romiinavega/cglab-webgl-proyecto#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
